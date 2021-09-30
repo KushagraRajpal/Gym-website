@@ -1,0 +1,16 @@
+{
+  "name": "gym",
+  "version": "1.0.0",
+  "description": "gym website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kushagra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "validator": "^13.6.0"
+  }
+}
